@@ -1,0 +1,19 @@
+body {
+  background-image: url(../img/denim.webp);
+}
+
+.logo {
+  font-family: "Playwrite GB S", cursive;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.logo a {
+    color: whitesmoke;
+}
+
+.logo a:hover,
+.logo a:active {
+  text-decoration: none;
+}
